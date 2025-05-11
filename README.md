@@ -1,15 +1,15 @@
-<h1 align="center">🧠 SAMRIFA Software Development</h1>
+<h1 align="center">🧠 SAMRIFA Software</h1>
 <p align="center"><em>Empowering Ideas with Elegant Software Solutions</em></p>
 <p align="center"><em>Build Smart. Solve Better</em></p>
 
 ---
 
 <p align="center">
-  <img src="https://yourdomain.com/logo-samrifa.png" alt="SAMRIFA Logo" width="120"/>
+  <img src="software-development-logo-black-1920x1080.png" alt="SAMRIFA Logo" width="50%"/>
 </p>
 
 <p align="center">
-  <strong>SAMRIFA Software Development</strong> adalah unit dari <strong>SAMRIFA Group</strong> yang bergerak di bidang <em>digital solution</em>: pengembangan aplikasi, website, dan sistem informasi untuk UMKM dan bisnis lokal.
+  <strong>SAMRIFA Software Development</strong> adalah unit dari <strong>SAMRIFA Group</strong> yang bergerak di bidang <em>digital solution</em>: pengembangan aplikasi, website, dan sistem informasi untuk Perorangan, Skripsi, UMKM, bisnis lokal dan kebutuhan lainnya.
 </p>
 
 ---
@@ -22,8 +22,8 @@
 
 ## 💼 Layanan Kami
 
-- 💻 Website & WebApp Development (Laravel, Vue, Tailwind)
-- 📱 Mobile App Development (Flutter)
+- 💻 Website & WebApp Development (Laravel, Mysql, Bootstrap)
+- 📱 Mobile App Development (Kotlin, Flutter)
 - 📊 Dashboard Bisnis & ERP UMKM
 - 🔌 Integrasi API & Middleware Otomasi
 - 🎨 UI/UX Design & Konsultasi Teknologi
@@ -53,7 +53,7 @@
 ## 🛠️ Teknologi yang Kami Gunakan
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,vue,flutter,dart,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,kotlin,flutter,dart,mysql,git,github" />
 </p>
 
 ---
@@ -61,8 +61,8 @@
 ## 📫 Kontak Kami
 
 - 📧 Email: **samrifa.dev@gmail.com**  
-- 📱 WhatsApp: [0812-XXXX-XXXX](https://wa.me/62812XXXXXXX)  
-- 🌐 Website: [samrifa.id](https://samrifa.id) *(coming soon)*  
+- 📱 WhatsApp: [0812-XXXX-XXXX](https://wa.me/6282154488769)  
+- 🌐 Website: [samrifa.id](https://software.samrifa.id) *(coming soon)*  
 - 📍 Gorontalo, Indonesia
 
 ---
